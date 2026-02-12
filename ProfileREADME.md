@@ -5,7 +5,7 @@ Turning complex data into actionable business decisions.
 
 
 
-## 🔭 Current Focus
+## 🔭 Top Projects
 - **Suggestion Report** – Spare Parts Demand Forecasting & Inventory Optimization  
 - **Sales Analysis (UAE) – Power BI**  
 - **Data Analysis Portfolio** – Structured Data Projects
