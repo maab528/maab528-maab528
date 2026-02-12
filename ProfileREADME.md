@@ -1,5 +1,7 @@
 👋 Hi, I'm Maab Faisal
-**Data Analyst
+
+Data Analyst
+
 Turning complex data into actionable business decisions.
 
 ## 🔭 Top Projects
