@@ -1,9 +1,6 @@
-# 👋 Hi, I'm Maab Faisal
-
-📊 **Data Analyst
+👋 Hi, I'm Maab Faisal
+**Data Analyst
 Turning complex data into actionable business decisions.
-
-
 
 ## 🔭 Top Projects
 - **Suggestion Report** – Spare Parts Demand Forecasting & Inventory Optimization  
