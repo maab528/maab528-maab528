@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Maab Faisal
 
-📊 **Data Analyst | Demand Forecasting & Inventory Optimization Specialist**  
+📊 **Data Analyst
 Turning complex data into actionable business decisions.
 
----
+
 
 ## 🔭 Current Focus
 - **Suggestion Report** – Spare Parts Demand Forecasting & Inventory Optimization  
 - **Sales Analysis (UAE) – Power BI**  
 - **Data Analysis Portfolio** – Structured Data Projects
 
----
+
 
 ## 💡 Skills & Tools
 - **Data & SQL:** Advanced SQL, Data Modeling, KPI Calculations  
@@ -18,7 +18,7 @@ Turning complex data into actionable business decisions.
 - **Visualization & Reporting:** Power BI, Excel, Structured Reporting  
 - **Soft Skills:** Business Problem Translation, Analytical Thinking, Data Storytelling
 
----
+
 
 ## 🚀 How I Work
 1. Translate business requirements into analytical questions  
@@ -27,7 +27,7 @@ Turning complex data into actionable business decisions.
 4. Validate insights & provide actionable recommendations  
 5. Communicate results clearly to stakeholders  
 
----
+
 
 ## 📈 Business Impact
 - Improved demand planning & inventory control  
@@ -35,8 +35,3 @@ Turning complex data into actionable business decisions.
 - Data-driven insights to support strategic decisions  
 *(Exact numbers are confidential)*
 
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/maabfaisal/)  
-- Email: your.email@example.com
